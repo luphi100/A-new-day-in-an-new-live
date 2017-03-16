@@ -12,7 +12,6 @@ namespace ErstesProjekt
 	internal  class Game1 : Game
 	{
 		GraphicsDeviceManager graphics;
-		Texture2D star;
 		public InputComponent Input
 		{
 			get;
